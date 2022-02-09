@@ -14,3 +14,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- site/content/post/test-854.md
